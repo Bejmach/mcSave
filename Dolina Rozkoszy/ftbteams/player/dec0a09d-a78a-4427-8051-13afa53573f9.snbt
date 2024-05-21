@@ -1,0 +1,15 @@
+{
+	id: "dec0a09d-a78a-4427-8051-13afa53573f9"
+	type: "player"
+	player_name: "Loter08"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Loter08"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59B4FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

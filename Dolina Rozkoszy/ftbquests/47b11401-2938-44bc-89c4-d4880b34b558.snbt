@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "47b11401293844bc89c4d4880b34b558"
+	name: "michakee_#47b11401"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		7B701D980200A661: 1
+	}
+	started: {
+		7539C31213D86E55: 1716307832498L
+		0000000000000001: 1716307832498L
+		7B701D980200A661: 1716307832498L
+		1DD302BB650057E3: 1716307832498L
+	}
+	completed: {
+		7B701D980200A661: 1716307832498L
+		1DD302BB650057E3: 1716307832498L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

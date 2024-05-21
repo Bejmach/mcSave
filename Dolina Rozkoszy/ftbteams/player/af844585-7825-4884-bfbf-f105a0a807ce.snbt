@@ -1,0 +1,15 @@
+{
+	id: "af844585-7825-4884-bfbf-f105a0a807ce"
+	type: "player"
+	player_name: "Bejmach"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Bejmach"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF596E"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

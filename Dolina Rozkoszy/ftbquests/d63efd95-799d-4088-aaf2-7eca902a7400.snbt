@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "d63efd95799d4088aaf27eca902a7400"
+	name: "kajmaks#d63efd95"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		7B701D980200A661: 1
+	}
+	started: {
+		7539C31213D86E55: 1716307771023L
+		0000000000000001: 1716307771023L
+		7B701D980200A661: 1716307771023L
+		1DD302BB650057E3: 1716307771023L
+	}
+	completed: {
+		7B701D980200A661: 1716307771023L
+		1DD302BB650057E3: 1716307771023L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

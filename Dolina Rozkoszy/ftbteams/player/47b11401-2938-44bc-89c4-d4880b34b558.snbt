@@ -1,0 +1,15 @@
+{
+	id: "47b11401-2938-44bc-89c4-d4880b34b558"
+	type: "player"
+	player_name: "michakee_"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "michakee_"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59C9"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
